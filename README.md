@@ -1,2 +1,2 @@
 # TECENS
-- Repositorium.
+Repositorium.
