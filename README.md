@@ -1,2 +1,2 @@
-# tec
-Repository for TEC.
+# TEC / System
+Https Mainframe of TECENS.
